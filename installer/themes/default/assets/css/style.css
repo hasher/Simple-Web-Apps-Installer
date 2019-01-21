@@ -1,0 +1,17 @@
+.lic {
+	min-height: 250px; max-height: 250px;
+	min-width: 100%; max-width: 100%;
+}
+
+.myCheckbox {
+	
+}
+
+.langSelector {
+	float: right;
+	margin: 10px;
+}
+
+body {
+	background-color: #c5c5c5e6;
+}
